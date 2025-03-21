@@ -15,7 +15,7 @@
 
 I'm on a mission to transform complex problems into efficient, user-friendly applications. With strong foundations in mathematical computing and software development, I bring analytical precision to every project I tackle.
 
-- 🔭 Currently working on expanding my ML project portfolio
+- 🔭 Currently working on expanding my web development project portfolio
 - 🌱 Learning advanced data structures and algorithms
 - 👯 Looking to collaborate on open-source projects
 - 🥅 2025 Goals: Contribute more to open source and land a tech internship
