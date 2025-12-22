@@ -3,7 +3,7 @@
   
   # 👨‍💻 Tushar Jindal
 
-  [![Website](https://img.shields.io/badge/Website-tjindl.ninja-brightgreen?style=for-the-badge&logo=safari&logoColor=white)](https://tjindl.github.io/portfolio_new/)
+  [![Website](https://img.shields.io/badge/Website-tjindl.ninja-brightgreen?style=for-the-badge&logo=safari&logoColor=white)](https://tjindl.github.io/tjindl.web/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-tjindl-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-jindal-97602420b/)
   [![GitHub](https://img.shields.io/badge/GitHub-Tjindl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tjindl)
   [![Email](https://img.shields.io/badge/Email-tjinda01%40student.ubc.ca-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tjinda01@student.ubc.ca)
