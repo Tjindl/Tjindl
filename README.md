@@ -18,7 +18,7 @@ I'm on a mission to transform complex problems into efficient, user-friendly app
 - 🔭 Currently working on expanding my web development project portfolio
 - 🌱 Learning advanced data structures and algorithms
 - 👯 Looking to collaborate on open-source projects
-- 🥅 2025 Goals: Contribute more to open source and land a tech internship
+- 🥅 2026 Goals: Contribute more to open source and land a tech internship
 - ⚡ Fun fact: I enjoy solving competitive programming challenges
 
 ## 💼 Professional Journey
