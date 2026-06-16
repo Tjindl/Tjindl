@@ -11,14 +11,14 @@
 
 ## 📖 About Me
 
-> 🎓 Mathematics and Data Science student at UBC with a passion for elegant code and data-driven solutions.
+> 🎓 Data Science student at UBC with a passion for elegant code and data-driven solutions.
 
 I'm on a mission to transform complex problems into efficient, user-friendly applications. With strong foundations in mathematical computing and software development, I bring analytical precision to every project I tackle.
 
 - 🔭 Currently working on expanding my web development project portfolio
 - 🌱 Learning advanced data structures and algorithms
 - 👯 Looking to collaborate on open-source projects
-- 🥅 2026 Goals: Contribute more to open source and land a tech internship
+- 🥅 Goals: Contribute more to open source and land a tech internship
 - ⚡ Fun fact: I enjoy solving competitive programming challenges
 
 ## 💼 Professional Journey
@@ -26,10 +26,9 @@ I'm on a mission to transform complex problems into efficient, user-friendly app
 ```python
 def tushar_jindal():
     education = {
-        "degree": "BSc in Mathematics",
+        "degree": "BSc in Data Science",
         "institution": "University of British Columbia",
-        "concentration": "Mathematical Computing",
-        "graduation": "May 2027",
+        "graduation": "May 2028",
         "key_courses": ["Data Analytics", "Machine Learning", "Software Construction"]
     }
     
