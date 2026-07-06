@@ -15,11 +15,10 @@
 
 I'm on a mission to transform complex problems into efficient, user-friendly applications. With strong foundations in mathematical computing and software development, I bring analytical precision to every project I tackle.
 
-- 🔭 Currently working on expanding my web development project portfolio
+- 🔭 Currently working on Parallel Computing
 - 🌱 Learning advanced data structures and algorithms
 - 👯 Looking to collaborate on open-source projects
-- 🥅 Goals: Contribute more to open source and land a tech internship
-- ⚡ Fun fact: I enjoy solving competitive programming challenges
+- 🥅 Goals: Contribute more to open source 
 
 ## 💼 Professional Journey
 
